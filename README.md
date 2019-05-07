@@ -1,2 +1,2 @@
-# haskell-in-depth-exercises
-Solutions to exercises from "Haskell in Depth" book
+# "Haskell in Depth" Exercises
+Solutions to exercises from the [Haskell in Depth](https://www.manning.com/books/haskell-in-depth) book.
