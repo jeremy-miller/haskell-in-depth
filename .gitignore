@@ -1,1 +1,4 @@
 hid-examples*
+.stack-work/
+haskell-in-depth-exercises.cabal
+*~

@@ -1,0 +1,8 @@
+:set prompt "ghci> "
+
+-- add src/ to search path for files
+:set -isrc
+
+-- show elapsed time and number of bytes allocated after each execution
+:set +s
+
